@@ -1,0 +1,13 @@
+  // Hackathon Postmortem //
+
+  Overall, I think the fact that our group was able to complete and turn in a relatively-simple app on time counts as something going right.  Other than that, I think that we were able to work very well as a group.  We shared responsibilities equally between group members and held each other accountable throughout the entire process.  Again, I think our biggest accomplishment was just getting our app to function properly, and turning it in on time.  Everything else was simply icing on the cake.
+
+  One thing that I learned from this project was how difficult it is to work with a group and share responsibilities with others.  Since I am such a design-oriented person, it was very difficult for me to share all of the design aspects with my group members.  Since we basically completed this project on one computer, using the same files, I realized that it also would have been much more difficult to work and share files together using Git/GitHub.
+
+  I don't know if using Git/GitHub would have necessarily 'improved' this experience, but it definitely would have made it more realistic.  I think the fact that we worked on the same computer at the same time made our project more coherent, and allowed us to complete more work in one sitting.
+
+  Besides the expected debugging problems and questionable functionality of our app, I honestly can't say that anything went wrong with our project.  Again, I think the only problem was deciding how to work together and share responsibilities amongst group members.  We just decided to choose the simplest solution to that problem by working together on everything.
+
+  The main question that this project raised is 'how do large groups of developers work on the same project together, and how do they share their responsibilities?'  I would love to know what the work flow looks like at large companies that have many employees.  Another question that I have pertains to how apps are deployed on the world wide web, but apparently that topic is going to be covered over the next few weeks.
+
+  After finishing this project, I feel that I definitely have a better understanding of how to use Vue.js, as well as how to connect to the server using AJAX routing techniques.  I feel that I can still greatly improve my understanding of routing in general, as well as how to access and manipulate items from a database using MongoDB/Mongoose.  
